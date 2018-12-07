@@ -1,0 +1,1 @@
+# odoo12_text
